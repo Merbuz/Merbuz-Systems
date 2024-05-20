@@ -1,16 +1,16 @@
 {
-    "bot_token": "6699849730:AAG0PQ4iOKIjaLnKbAQq3-r152xs4fUdpqs",
+    "bot_token": "",
     "use_ngrok": true,
-    "ngrok_auth_token": "2XaUHjhS2o87jBEKEWH0mStcoEI_48rEnvUtaZ2VD3u6a2ht",
+    "ngrok_auth_token": "",
     "backup_timeout_in_hours": 24.0,
     "backup_directories": [
-        "d:/python/.merbuz_projects/merbuz_systems"
+        "root/example"
     ],
-    "host": "192.168.0.239",
+    "host": "",
     "port": 22,
     "user": "root",
-    "user_password": "78127812ge",
+    "user_password": "",
     "linux_users": [
-        7042114196
+        
     ]
 }
